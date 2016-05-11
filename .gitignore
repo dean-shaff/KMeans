@@ -1,0 +1,6 @@
+*.hdf5
+*.pyc
+*.csv
+*.out
+*.ipynb
+*.txt
